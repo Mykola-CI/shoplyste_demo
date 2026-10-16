@@ -103,3 +103,7 @@ Renaming an item or changing its quantity locally marks it as locally owned. Lis
 - Published applications: [App Store](https://apps.apple.com/us/app/shoplyste-grocery-planner/id6754946133) and [Google Play](https://play.google.com/store/apps/details?id=es.team5.shopkitten)
 
 *Visual: Shoplyste onboarding artwork, generated with Google AI Studio (Nanobanana), incorporating the application interface.*
+
+## Made it to the bottom? Here's a little trial-period tip
+
+Want to explore the app without a surprise on your bill? If you're offered the 2-month free trial, subscribe and, once your subscription is active, cancel it through the App Store or Google Play. Your trial access may continue until the end of the trial, while cancelling helps prevent an automatic renewal. Check the subscription details in your store account to confirm your trial end date and cancellation terms—then enjoy exploring!
