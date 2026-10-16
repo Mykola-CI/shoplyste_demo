@@ -1,4 +1,13 @@
-# Shoplyste
+# Shoplyste (iOS and Android)
+
+<p align="center">
+  <img src="./assets/Shoplyste_Preview1.png" alt="Onboarding illustration showing the shopping-list interface, category groups, completed items, and contextual actions" width="140" />
+  <img src="./assets/Shoplyste_Preview_2.png" alt="Onboarding illustration showing the shopping-list interface, category groups, completed items, and contextual actions" width="140" />
+  <img src="./assets/Shoplyste_Preview_3.png" alt="Onboarding illustration showing the shopping-list interface, category groups, completed items, and contextual actions" width="140" />
+  <img src="./assets/Shoplyste_Preview4.png" alt="Onboarding illustration showing the shopping-list interface, category groups, completed items, and contextual actions" width="140" />
+  <img src="./assets/Shoplyste_Preview5.png" alt="Onboarding illustration showing the shopping-list interface, category groups, completed items, and contextual actions" width="140" />
+  <img src="./assets/Shoplyste_Preview6.png" alt="Onboarding illustration showing the shopping-list interface, category groups, completed items, and contextual actions" width="140" />
+</p>
 
 ## References
 
